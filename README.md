@@ -15,8 +15,7 @@ Test [(van der Linden &
 Sotaridona, 2006)](doi:10.3102/10769986031003283),K index, K1 and K2
 indices [(Sotaridona &
 Meijer, 2002)](doi:10.1111/j.1745-3984.2002.tb01138.x), M4 index
-[(Maynes,2014)](https://books.google.com/books?id=Mc_pAwAAQBAJ&pg=PA53&lpg=PA53&dq=Detection+of+non-independent+test+taking+by+similarity+analysis&source=bl&ots=ZPa_OGR2T9&sig=ACfU3U2WTUfqkPnkZoKobtY14pgY98rJVQ&hl=en&sa=X&ved=2ahUKEwjDkIKg-rPpAhXGTd8KHXTuAVkQ6AEwA3oECGAQAQ#v=onepage&q=Detection%20of%20non-independent%20test%20taking%20by%20similarity%20analysis&f=false),
-and S1 and S2 indices [(Sotaridona &
+[(Maynes,2014)](), and S1 and S2 indices [(Sotaridona &
 Meijer, 2003)](doi:10.1111/j.1745-3984.2003.tb01096.x).
 
 ## Installation
