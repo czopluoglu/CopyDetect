@@ -1,16 +1,27 @@
 Package: CopyDetect
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+Title: Computing Response Similarity Indices for Multiple-Choice Tests
+Version: 1.4
+Authors@R: person("Cengiz", "Zopluoglu", email = "cengiz@uoregon.edu",
+                  role = c("cre","aut"),
+                  comment = c(ORCID = "0000-0002-9397-0262"))
+Maintainer: Cengiz Zopluoglu <cengiz@uoregon.edu>
+Imports: mirt
+Description: Contains several IRT and non-IRT based response similarity indices 
+             proposed in the literature for multiple-choice examinations such as 
+             the Omega index, Wollack (1997) <doi:10.1177/01466216970214002>; 
+             Generalized Binomial Test, van der Linden & Sotaridona (2006) 
+             <doi:10.3102/10769986031003283>; K index, K1 and K2 indices, 
+             Sotaridona & Meijer (2002) <doi:10.1111/j.1745-3984.2002.tb01138.x>;  
+             and S1 and S2 indices, Sotaridona & Meijer (2003) 
+             <doi:10.1111/j.1745-3984.2003.tb01096.x>.
+License: file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
+URL: https://cengiz.me
+BugReports: https://github.com/czopluoglu/CopyDetect/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
