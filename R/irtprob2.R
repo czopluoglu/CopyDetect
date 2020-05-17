@@ -2,7 +2,7 @@
 #'
 #'@param ability ability parameter
 #'
-#'@item.param NRM item parameter matrix
+#'@param item.param NRM item parameter matrix
 #'
 #'@noRd
 

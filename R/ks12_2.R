@@ -11,7 +11,7 @@
 #'@param pa a vector of two numbers, 1st number is the row number for suspected copier, 
 #' and the 2nd number is the row number for suspected source
 #' 
-#'@resp.options available response options 
+#'@param resp.options available response options 
 #' 
 #'@return A list with the following components
 #' \itemize{
